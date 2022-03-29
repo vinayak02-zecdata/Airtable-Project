@@ -51,17 +51,17 @@ Create virtual enviorment
 
 # For any changes you can configurate in config.py file.
 
-### Below are the variables in which you can config.
-> AIRTABLE_API_URL = "https://api.airtable.com/v0/appgtgvgqCBONn9yc/Job Postings Staging"
-> AIRTABLE_KEY = "keytkiupqAh5ct7tZ"  #Your api key
-> BASE_ID = "appgtgvgqCBONn9yc"       #Your base id
-> TABLE_NAME = "Job Postings Staging" #Your Tablename
-> JOB_START_DATE = "Your config" #datetime.now()
-> JOB_NO_TO_CRAWL = "Your config" #1
-> page = "Your config" #1 
-> MAX_RETRY = "Your config" #3
-> TOTAL_PAGE_EXPLORE = "Your config" #100
-> AIRTABLE_INSERT_ROW_LENGTH = "Your config" #100
+### Below are the variables in which you can config:
+     AIRTABLE_API_URL = "https://api.airtable.com/v0/appgtgvgqCBONn9yc/Job Postings Staging"
+     AIRTABLE_KEY = "keytkiupqAh5ct7tZ"  #Your api key
+     BASE_ID = "appgtgvgqCBONn9yc"       #Your base id
+     TABLE_NAME = "Job Postings Staging" #Your Tablename
+     JOB_START_DATE = "Your config" #datetime.now()
+     JOB_NO_TO_CRAWL = "Your config" #1
+     page = "Your config" #1 
+     MAX_RETRY = "Your config" #3
+     TOTAL_PAGE_EXPLORE = "Your config" #100
+     AIRTABLE_INSERT_ROW_LENGTH = "Your config" #100
 
 
 
