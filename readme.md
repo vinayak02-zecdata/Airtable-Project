@@ -1,6 +1,6 @@
 # Overview:
 
-> The project aim to scarping various job details from linkhub.com and insert the extracted data to airtable, updating and deleting record , primarily implementing pyairtable, python,selenium, Beautifulsoup,requests modules.
+> The project aims to scraping various job details from linkhub.com and insert the extracted data to airtable, updating and deleting record , primarily implementing pyairtable, python,selenium, Beautifulsoup,requests modules.
 
 
 # Local setup of all requirements for running the airtable script.
